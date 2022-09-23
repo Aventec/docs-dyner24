@@ -10,10 +10,10 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/pagosegurorepos/documentation.git"
+		"url": "git+https://github.com/Aventec/docs-dyner24.git"
 	},
 	"bugs": {
-		"url": "https://github.com/pagosegurorepos/documentation/issues"
+		"url": "https://github.com/Aventec/documentation/issues"
 	},
-	"homepage": "https://github.com/pagosegurorepos/documentation#readme"
+	"homepage": "https://github.com/Aventec/documentation#readme"
 }
